@@ -1,0 +1,15 @@
+Turismo;Patagonia Aventuras;Puerto Varas;12500.50
+Deportivo;Sur Fitness;Temuco;8990.00
+Musical;Sonidos del Sur;Valdivia;15000.75
+Empresarial;Austral Solutions;Puerto Montt;25000.00
+Turismo;Lagos Mágicos;Frutillar;18500.90
+Deportivo;Andes Sport;Osorno;12000.00
+Musical;Ritmo Austral;Castro;9500.50
+Empresarial;Sur Business;Concepción;32000.00
+Turismo;Aventura Araucanía;Pucón;22000.00
+Deportivo;Fitness Patagonia;Coyhaique;11000.75
+Musical;Melodías del Lago;Villarrica;13500.00
+Empresarial;Austral Consulting;Valdivia;28000.50
+Turismo;Explora Chiloé;Ancud;17500.00
+Deportivo;Deportes del Bosque;Temuco;10500.25
+Musical;Estudio Sonoro Sur;Puerto Montt;16000.00
