@@ -5,7 +5,7 @@ import model.Tour;
  * Punto de entrada del app de Llanquihue Tour
  */
 void main() {
-    GestorDatos gd = new GestorDatos("src/resources/data.txt");
+    GestorDatos gd = new GestorDatos("src/resources/tours.txt");
 
     // Mostrar todos los tours
     System.out.println("========================================");
